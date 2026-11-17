@@ -1,0 +1,16 @@
+{
+    "theme": "Obsidian Dark",
+    "zapret_dir": "C:\\ProgramData\\FreeCR\\zapret\\zapret-discord-youtube-1.10.4",
+    "zapret_version": "",
+    "tg_proxy_path": "C:\\ProgramData\\FreeCR\\tg_proxy\\TgWsProxy_windows.exe",
+    "tg_proxy_version": "",
+    "tg_proxy_port": "1080",
+    "best_profile": "general (ALT5).bat",
+    "best_ping": 65,
+    "profile_ver": 4,
+    "game_filter_mode": "all",
+    "ipset_mode": "any",
+    "use_zapret": true,
+    "use_tg_proxy": true,
+    "auto_check_updates": false
+}
